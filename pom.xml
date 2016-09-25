@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <scm>
+      <connection>scm:git:https://github.com/chibby0ne/maven-tests</connection>
       <developerConnection>scm:git:https://github.com/chibby0ne/maven-tests</developerConnection>
   </scm>
   <build>
